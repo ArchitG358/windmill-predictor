@@ -1,7 +1,7 @@
 # Predicting Energy Output of Wind Turbine based on the Weather Conditions
 
-##### [app-release.apk](https://github.com/SmartPracticeschool/SBSPS-Challenge-3925-Predicting-the-Energy-Output-of-wind-turbine-based-on-the-weather-conditions-/blob/master/app-release.apk) is the APK of the app for direct use
-##### Link for [Video Demonstration](https://drive.google.com/drive/folders/178aQIyLIL_TUwbXwkDW3wJ7OvXgot8Lm?usp=sharing)
+##### [app-release.apk](https://github.com/ArchitG358/windmill-predictor/raw/main/app-release.apkk) is the APK of the app for direct use
+##### Link for [Video Demonstration](https://drive.google.com/file/d/1q9dVcpbUfYan_IngxCaiTasCRcZd-0Ox/view?resourcekey)
 
 ## Description of Project
 Wind energy plays an increasing role in the supply of energy world-wide. The energy output of a wind farm is highly dependent on the wind conditions present at its site. If the output can be predicted more accurately, energy suppliers can coordinate the collaborative production of different energy sources more efficiently to avoid costly overproduction.
