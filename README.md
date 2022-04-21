@@ -3,6 +3,9 @@
 ##### [app-release.apk](https://github.com/ArchitG358/windmill-predictor/raw/main/app-release.apkk) is the APK of the app for direct use
 ##### Link for [Video Demonstration](https://drive.google.com/file/d/1q9dVcpbUfYan_IngxCaiTasCRcZd-0Ox/view?resourcekey)
 
+##### Link for [Presentation](https://docs.google.com/presentation/d/1AhFnLCZfqqcYKgrSO7_1jFqocmu9YiQY9kCky7qc1pM/edit?usp=sharing)
+
+
 ## Description of Project
 Wind energy plays an increasing role in the supply of energy world-wide. The energy output of a wind farm is highly dependent on the wind conditions present at its site. If the output can be predicted more accurately, energy suppliers can coordinate the collaborative production of different energy sources more efficiently to avoid costly overproduction.
 
